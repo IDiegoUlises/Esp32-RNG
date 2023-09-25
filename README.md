@@ -1,4 +1,4 @@
-# Esp32-RNG
+# Esp32 RNG
 
 ```c++
 void setup()
