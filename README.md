@@ -22,5 +22,5 @@ void loop()
   delay(2000);
 }
 ```
-* Para crear una numero aleatorio debe estar funcionando el WiFi o el Bluetooth
+* **Para crear una numero aleatorio debe estar funcionando el WiFi o el Bluetooth:** Porque
 * 
