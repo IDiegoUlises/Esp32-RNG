@@ -22,5 +22,5 @@ void loop()
   delay(2000);
 }
 ```
-* **Para crear una numeros aleatorios debe estar funcionando el WiFi o el Bluetooth:** Porque utiliza la entropia del hardware del Esp32 que generan las ondas electromagneticas para obtener numeros aleatorios, en caso que el WiFi y el Blueooth se encuentren deshabilitado el Esp32 no podra generar numeros aleatorio por lo que se generaran numeros pseudoaleatorio 
+* **Para obtener numeros aleatorios debe estar funcionando el WiFi o el Bluetooth:** Porque utiliza la entropia del hardware del Esp32 que generan las ondas electromagneticas para obtener numeros aleatorios, en caso que el WiFi y el Blueooth se encuentren deshabilitado el Esp32 no podra generar numeros aleatorio por lo que se generaran numeros pseudoaleatorio 
   
